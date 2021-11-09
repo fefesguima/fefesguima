@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fefesguima
 - 👀 I’m interested in Go, React, Python
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m currently learning Data Science and Docker
 - 💞️ I’m looking to collaborate on every open source project I could find!
 
 <!---
